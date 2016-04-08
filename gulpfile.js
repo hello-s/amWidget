@@ -20,5 +20,4 @@ gulp.task('doc', function () {
 		.pipe(gulp.dest('./doc/build'));
 });
 
-// The default task (called when you run `gulp` from cli)
 gulp.task('default', ['build']);
