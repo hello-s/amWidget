@@ -1,32 +1,32 @@
 {
-	"family": "aw",
-	"name": "aw",
-	"version": "1.0.0",
-	"description": "alipay mobile js widget",
-	"homepage": "",
-	"author": "semious",
-	"maintainers": [
-		"semious"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git@github.com:am-team/amWidget.git"
-	},
-	"bugs": {
-		"url": ""
-	},
-	"keywords": [],
-	"licenses": "MIT",
-	"dependencies": {
-		"gulp-amw-dest": "*",
-		"gulp-am-transport": "*",
-		"gulp-shell": "*"
-	},
-	"devDependencies": {
-		"gulp-util": "~2.2.14",
-		"gulp": "*",
-		"gulp-concat": "*",
-		"gulp-uglify": "*",
-		"gulp-rename": "~1.2.0"
-	}
+  "family": "aw",
+  "name": "aw",
+  "version": "1.0.0",
+  "description": "alipay mobile js widget",
+  "homepage": "",
+  "author": "semious",
+  "maintainers": [
+	"semious"
+  ],
+  "repository": {
+	"type": "git",
+	"url": "git@github.com:am-team/amWidget.git"
+  },
+  "bugs": {
+	"url": ""
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+	"gulp-amw-dest": "*",
+	"gulp-am-transport": "*",
+	"gulp-shell": "*"
+  },
+  "devDependencies": {
+	"gulp-util": "~2.2.14",
+	"gulp": "*",
+	"gulp-concat": "*",
+	"gulp-uglify": "*",
+	"gulp-rename": "~1.2.0"
+  }
 }
